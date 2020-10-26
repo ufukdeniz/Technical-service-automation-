@@ -1,0 +1,17 @@
+C:\Users\ufukd\source\repos\Bilgisayar_Teknik_Servis\Bilgisayar_Teknik_Servis\bin\Debug\Bilgisayar_Teknik_Servis.exe.config
+C:\Users\ufukd\source\repos\Bilgisayar_Teknik_Servis\Bilgisayar_Teknik_Servis\bin\Debug\Bilgisayar_Teknik_Servis.exe
+C:\Users\ufukd\source\repos\Bilgisayar_Teknik_Servis\Bilgisayar_Teknik_Servis\bin\Debug\Bilgisayar_Teknik_Servis.pdb
+C:\Users\ufukd\source\repos\Bilgisayar_Teknik_Servis\Bilgisayar_Teknik_Servis\obj\Debug\Bilgisayar_Teknik_Servis.csprojAssemblyReference.cache
+C:\Users\ufukd\source\repos\Bilgisayar_Teknik_Servis\Bilgisayar_Teknik_Servis\obj\Debug\Bilgisayar_Teknik_Servis.formtamir.resources
+C:\Users\ufukd\source\repos\Bilgisayar_Teknik_Servis\Bilgisayar_Teknik_Servis\obj\Debug\Bilgisayar_Teknik_Servis.frmmüsteriekle.resources
+C:\Users\ufukd\source\repos\Bilgisayar_Teknik_Servis\Bilgisayar_Teknik_Servis\obj\Debug\Bilgisayar_Teknik_Servis.Properties.Resources.resources
+C:\Users\ufukd\source\repos\Bilgisayar_Teknik_Servis\Bilgisayar_Teknik_Servis\obj\Debug\Bilgisayar_Teknik_Servis.csproj.GenerateResource.cache
+C:\Users\ufukd\source\repos\Bilgisayar_Teknik_Servis\Bilgisayar_Teknik_Servis\obj\Debug\Bilgisayar_Teknik_Servis.exe
+C:\Users\ufukd\source\repos\Bilgisayar_Teknik_Servis\Bilgisayar_Teknik_Servis\obj\Debug\Bilgisayar_Teknik_Servis.pdb
+C:\Users\ufukd\source\repos\Bilgisayar_Teknik_Servis\Bilgisayar_Teknik_Servis\obj\Debug\Bilgisayar_Teknik_Servis.frmMüsteriliste.resources
+C:\Users\ufukd\source\repos\Bilgisayar_Teknik_Servis\Bilgisayar_Teknik_Servis\obj\Debug\Bilgisayar_Teknik_Servis.frmurunliste.resources
+C:\Users\ufukd\source\repos\Bilgisayar_Teknik_Servis\Bilgisayar_Teknik_Servis\obj\Debug\Bilgisayar_Teknik_Servis.frmtamiredildi.resources
+C:\Users\ufukd\source\repos\Bilgisayar_Teknik_Servis\Bilgisayar_Teknik_Servis\obj\Debug\Bilgisayar_Teknik_Servis.frmurunekle2.resources
+C:\Users\ufukd\source\repos\Bilgisayar_Teknik_Servis\Bilgisayar_Teknik_Servis\obj\Debug\Bilgisayar_Teknik_Servis.frmkategori.resources
+C:\Users\ufukd\source\repos\Bilgisayar_Teknik_Servis\Bilgisayar_Teknik_Servis\obj\Debug\Bilgisayar_Teknik_Servis.frmmarka.resources
+C:\Users\ufukd\source\repos\Bilgisayar_Teknik_Servis\Bilgisayar_Teknik_Servis\obj\Debug\Bilgisayar_Teknik_Servis.frmpersonelgiris.resources
